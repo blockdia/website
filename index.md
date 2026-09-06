@@ -11,7 +11,7 @@ An open platform for learning, creating and sharing with block-based programming
 - [Challenges](https://challenge.blockdia.com/)
 - [Code Snippets](https://snippets.blockdia.com/)
 - [scratchblocks+](https://luyifei2011.github.io/scratchblocks-plus/)
-- Editor
+- [Editor](https://editor.blockdia.com/)
 
 ## Status
 
